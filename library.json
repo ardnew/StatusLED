@@ -1,0 +1,13 @@
+{
+  "name": "StatusLED",
+  "keywords": "led, rgb, pwm, dotstar, neopixel, wheel, pulse",
+  "description": "A single RGB LED driver with various display modes",
+  "exclude": "doc",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ardnew/StatusLED"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
