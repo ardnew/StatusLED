@@ -11,7 +11,7 @@ Uses PWM on three separate R,G,B GPIO pins by default, but very easy to adapt to
 ## Example
 Demonstrates dynamically changing the LED mode, using the onboard RGB LED on an Arduino Nano 33 BLE Sense:
 ```c++
-#include "src/StatusLED.h"
+#include <StatusLED.h>
 
 StatusLED *led;
 
