@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/opt/arduino/lib/packages",
+  "otherLibrariesFolders": "/opt/arduino/src/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/opt/arduino/src/libraries/StatusLED/examples/Blinky/Blinky.ino"
+}
